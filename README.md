@@ -3,6 +3,7 @@
 #### Introduction to Deep Learning (CSE321) Class Lab assignment. 
 #### Semester: 6 
 #### Instructor: Dr. Sudarshan nandy  
+#### Name: Abhimanyu Bhowmik
 #### B.tech(AI) | Enroll No. A910119819008
 
 ## Lab/Practicals Syllabus:
