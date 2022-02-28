@@ -1,6 +1,6 @@
 # Introduction to Deep Learning (CSE321)
 
-#### Lab assignment
+#### Course Material and Lab assignment
 #### Semester: 6 
 #### Instructor: Dr. Sudarshan nandy  
 #### Name: Abhimanyu Bhowmik
