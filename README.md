@@ -1,10 +1,36 @@
 # Introduction to Deep Learning (CSE321)
 
-#### Course Material and Lab assignment
-#### Semester: 6 
-#### Instructor: Dr. Sudarshan nandy  
-#### Name: Abhimanyu Bhowmik
-#### B.tech(AI) | Enroll No. A910119819008
+### Course Material and Lab assignment
+### Semester: 6 
+### Instructor: Dr. Sudarshan nandy  
+### Name: Abhimanyu Bhowmik
+### B.tech(AI) | Enroll No. A910119819008
+
+
+------------------------------------------------------------------------------------------------------
+
+## Course Contents/Syllabus:
+
+### Module I :
+
+Introduction to deep learning, Curse of Dimensionality, Neural Network Basics, Gradient descent and the backpropagation algorithm, Stochastic Gradient Descent, Activation Functions, Derivatives of MSE and cross-entropy loss functions, Problem of overfitting
+
+### Module II:
+
+Supervised Learning: classification, Convolutional Neural Networks, Architectures, convolution / pooling layers, Invariance, stability, Variability models (deformation model, stochastic model), Properties of Convolutional Neural Networks representations: invertibility, stability, invariance. covariance/invariance: capsules and related models, Embeddings , inverse problems.
+
+### Module III :
+
+Deep Unsupervised Learning, Encoder Decoder architectures, Autoencoders-standard, denoising, contractive, Variational Autoencoders, Backpropagation and Gradient Descent in Autoencoders, Maximum Entropy Distributions, Generative adversarial networks(GAN), difference between GAN and Autoencoder
+
+### Module IV :
+
+Introduction to Markov chains, Recurrent Neural Networks, Learning from temporal datasets, Long Short Term Memory(LSTM), Fully recurrent neural networks, Gradient descent Optimization, Hopfield network, Global optimization methods 
+
+### Module V:
+
+Non-convex optimization for deep networks, Stochastic Optimization, Attention and Memory Models, Regularization- Lasso and Ridge, Dropout. Scalable Learning and Parallelization, Applications of Deep Learning to Computer Vision, Natural Language Processing, Image Processing
+
 
 ## Lab/Practicals Syllabus:
 
