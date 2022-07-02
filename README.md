@@ -2,7 +2,7 @@
 
 ### Course Material and Lab assignment
 ### Semester: 6 
-### Instructor: Dr. Sudarshan nandy  
+### Instructors: Dr. Sudarshan Nandy | Mr. Dhritiman Mukherjee
 ### Name: Abhimanyu Bhowmik
 ### B.tech(AI) | Enroll No. A910119819008
 
